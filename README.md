@@ -12,8 +12,8 @@ This script modifies the necessary files in your existing Discord installation, 
 
 ## Installation:
 1. Clone or download the repository to your Linux machine.
-2. Follow the instructions in the script file to patch your Discord files.
-3. The script will automatically identify the files that need to be patched and update them.
+2. Execute the script. (If u get permission denied, run the script with sudo)
+(The script will automatically identify new version and patch the build_conf.json)
 
 ## Usage:
 - Simply run the script whenever you need to patch your Discord installation on Linux.
